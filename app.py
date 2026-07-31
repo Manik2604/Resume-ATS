@@ -72,7 +72,16 @@ def home():
     <body class="bg-slate-900 text-white min-h-screen p-8">
         <div class="max-w-4xl mx-auto">
             <h1 class="text-3xl font-bold mb-2 text-cyan-400">🤖 Smart ATS Resume Copilot</h1>
-            <p class="text-slate-400 mb-8">Analyze candidate resumes against job descriptions using NLP & TF-IDF.</p>
+            <p class="text-slate-400 mb-4">
+    Analyze candidate resumes against job descriptions using NLP & TF-IDF.
+</p>
+
+<div class="bg-slate-800 border border-cyan-700 rounded-lg p-4 mb-8">
+    <h3 class="text-lg font-semibold text-cyan-400 mb-2">👨‍💻 Developer Information</h3>
+    <p class="text-slate-300"><strong>Developed By:</strong> Vansh Bareja</p>
+    <p class="text-slate-300"><strong>Roll No:</strong> 241047</p>
+    <p class="text-slate-300"><strong>College:</strong> PIET, Samalkha</p>
+</div>
             
             <form action="/analyze" method="post" class="space-y-6">
                 <div>
