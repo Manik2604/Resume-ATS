@@ -78,8 +78,8 @@ def home():
 
 <div class="bg-slate-800 border border-cyan-700 rounded-lg p-4 mb-8">
     <h3 class="text-lg font-semibold text-cyan-400 mb-2">👨‍💻 Developer Information</h3>
-    <p class="text-slate-300"><strong>Developed By:</strong> Vansh Bareja</p>
-    <p class="text-slate-300"><strong>Roll No:</strong> 241047</p>
+    <p class="text-slate-300"><strong>Developed By:</strong> Manik</p>
+    <p class="text-slate-300"><strong>Roll No:</strong> 241318</p>
     <p class="text-slate-300"><strong>College:</strong> PIET, Samalkha</p>
 </div>
             
